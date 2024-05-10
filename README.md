@@ -106,8 +106,8 @@ if(NUM_LOOPS>=10)    {
 
 
 ## OUTPUT
-![image](https://github.com/Mkumar262006/Linux-IPC-Semaphores/assets/147139472/02dfd199-fd53-4219-aa9d-1e13a25f1d0e)
-![image](https://github.com/Mkumar262006/Linux-IPC-Semaphores/assets/147139472/93a1e285-f322-4fb6-b86d-f6f7f62ab466)
+![image](./output%201%20exp5.png)
+![image](./output%202%20exp5.png)
 
 
 
